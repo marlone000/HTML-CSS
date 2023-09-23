@@ -1,0 +1,16 @@
+body{
+  background: black;
+
+}
+h1{ 
+  color: blueviolet;
+ font-size: 26px;
+}
+p{
+color: white;
+font-size: 18px;
+}
+h2{
+color: pink;
+font-size: 22px;
+}
