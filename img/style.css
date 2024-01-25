@@ -6,7 +6,7 @@ body, ul, li, p {
     font-family: Arial;
 }a{
     text-decoration: none;
-    color: violet;
+    color: rgb(185, 109, 185);
 }header{
     display:flex;
     background: black;
@@ -21,7 +21,7 @@ body, ul, li, p {
 }.menu li a {
     display: block;
     padding: 8px;
-    background: rgb(53, 38, 156);
+    background: rgb(74, 56, 185);
 }h1{
     text-align: center;
     margin-top: 5rem;
